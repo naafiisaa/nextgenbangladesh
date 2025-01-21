@@ -1,2 +1,17 @@
 body{font-family: fira sans;
     padding: 30px; background-color:aliceblue;}
+    .poster-head{color: rgba(14, 14, 14, 0.5);
+        font-size: 24px;
+        font-weight: 500;
+        }
+    .poster-description{color: rgb(14, 14, 14);
+        font-size: 56px;
+        font-weight: 700;
+        }
+    .poster-btn{border-radius: 8px;
+      background: rgb(0, 106, 80);}
+    .poster-btn-text{color: rgb(255, 255, 255);
+        font-size: 12px;
+        font-weight: 600;
+        }
+        .poster-btn:hover{background-color: blue;}
